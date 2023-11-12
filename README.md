@@ -1,6 +1,6 @@
 <div align="center">
 
-# Codember-2023 in .TS 💻
+# Codember-2023 in Typescript 💻
 
 ![codember](https://github.com/Jose-Familia/Codember-2023/assets/128924389/df8ef421-0188-45f0-92fb-ba04a64c94e7)
   
