@@ -1,0 +1,171 @@
+const FOURTY_SECOND_KEY = 41;
+const SECURITY_POLICIES_RULES = `8-10 r: ozrcdfnug
+9-10 q: hvsazxrigf
+1-9 j: bbqonxjt
+6-8 e: pzqcywelwiogwt
+4-7 t: vvxirpoid
+10-10 g: gifzgmpab
+7-8 w: lfpveulq
+8-10 f: xlcgglmllky
+7-9 w: siridrjzxqpngwr
+2-3 n: fkrmnniuxeboq
+8-10 g: zlbevnqppg
+1-6 a: yqvwieerrklo
+1-9 d: vxannmz
+8-10 u: hhjyvkckfxo
+7-10 i: nljzuyfzb
+9-10 c: imgjjpzdbmrw
+9-9 v: hysjskvlajhxpd
+10-10 w: oojxss
+1-10 s: yysatgxngpxwoem
+9-9 i: uhwcmhcdby
+3-6 x: tygtgmzqgaoa
+6-9 q: ivrvhtzzer
+6-10 g: fwgegzkdv
+6-7 l: wcjluyprnxu
+9-10 a: fyefdpsdzaebc
+7-8 y: kwxuffrrneojaco
+6-10 p: dwgackmgbsus
+8-8 o: dtiyaqmqndsp
+2-8 i: gmafxjksdtxfjt
+2-4 l: xwjuygyfnqgsz
+1-1 b: kodslr
+9-9 g: pdnxrrfxhjhi
+4-9 t: ohmczh
+4-5 d: qeavdrtphhyqrvb
+1-3 i: qnuel
+7-10 l: wbwdnzvqku
+10-10 n: jjwhjrrysbpg
+9-10 b: kovvlhsvdqfg
+1-1 g: xolpkt
+5-8 g: qubspcaytneg
+2-8 k: fmptvvd
+10-10 x: hzlaflrshptiy
+4-10 i: dywatt
+6-6 x: eflrp
+9-10 d: bgamidqewtbus
+3-10 n: llysdv
+2-3 k: bvcbvo
+8-9 a: iyljc
+10-10 f: ndyfogk
+1-9 z: nylbijvgysm
+7-8 i: bjqgqt
+5-7 u: tdtcwitrr
+8-9 x: spwuw
+8-10 y: rpzcs
+2-7 i: gcysmom
+1-9 n: jymsnungqygcq
+4-4 a: kcrohkxqg
+10-10 t: mvebpf
+4-7 r: vfhunjqziv
+10-10 k: mtmdjbv
+5-6 c: sowigndyyai
+7-7 b: cifknttgrpn
+3-4 q: zrubvrlegv
+8-10 r: ivczqqrois
+8-10 z: ykqosdbk
+9-9 h: urjpxaz
+1-8 w: pxhfxubuyvo
+4-6 a: tumdapgxenvr
+2-7 f: yaeyvbkrdras
+5-8 s: paqxymwsbah
+8-8 x: xtxpnhgbofdrs
+7-10 r: iqfpszsx
+8-10 c: cdfsfnyiqwtcssy
+5-10 z: suvqelmvkmvcy
+5-7 b: hiodfdwq
+4-5 u: zqghtqmw
+8-10 h: liqwd
+1-7 o: qhrlwdoltv
+3-7 w: tcqcq
+6-6 o: bfjaddqxqgssq
+4-7 j: gkbzxsffzrnckzj
+4-6 d: ogvdasrmribaqps
+9-10 m: jrgezkxytjuf
+2-9 g: htyjxmzulz
+3-5 b: gxgvzkkx
+6-8 g: iwgomwhwpjspj
+2-7 b: usdmm
+4-9 z: bowpthcs
+5-8 v: ahrljnttfukcrw
+1-7 d: rnwrji
+8-8 q: zwtylxkv
+5-9 b: ivxeagzx
+7-9 o: wjtncvtwwlpv
+4-4 m: xbpafqjzwdepp
+7-8 x: znlfxvtbraikxjf
+5-9 j: hybkaj
+5-6 g: xjducbyhdrst
+2-3 e: rupyvlo
+1-1 y: yrruzwhbfkk
+5-10 c: dxkhzipe
+7-10 z: outpx
+6-10 t: nlygjceachhhqij
+5-10 f: fpuvb
+10-10 c: laftqdzlcao
+4-7 s: xotywhvh
+1-8 w: qapwcw
+5-10 g: zoiosnanbuugsbr
+3-4 k: zuotdwegpfaut
+1-3 y: kjjkhsr
+8-8 n: vwipg
+5-7 i: bjqgqt
+5-9 p: zmwrc
+4-4 n: amvpkjrqem
+2-5 r: wqknpkmsacm
+9-9 z: wdkyprmgrizjvs
+9-9 d: nxgqvpq
+7-8 j: qteqcp
+8-9 v: ecxzvxboqdeybm
+7-7 o: dmanukcgrhnmz
+8-8 k: ymndpkvzbjdsg
+6-9 w: hyjzohfoe
+7-7 z: hmgykqscpgnn
+3-10 c: xhxbncgofcnk
+2-7 m: wbspedadumoqfq
+10-10 z: czxiw
+1-8 h: mphku
+4-8 d: ccixnnxe
+7-9 r: mcplogwkkgp
+4-5 r: vogmgk
+1-1 o: rvdfttcjvjp
+10-10 i: bvlfpbedaudydw
+2-7 l: yyezoage
+1-1 t: vnoffsvgilwed
+2-9 q: nuelf
+7-7 o: dmanukcgrhnmz
+1-7 i: spnykaq
+9-10 f: zrbbttpk
+9-10 c: wsibsdudywm
+2-2 q: jncwibzyrqi
+7-10 f: dqmirwccscer
+7-7 w: ehzfswcd
+7-9 x: nsius
+9-10 h: doczjpxgpc
+8-9 q: ftxtkezitffc
+3-10 t: jszdxfa
+8-8 p: swjluowwhypqo
+7-8 y: oxgesctzrfauc
+7-7 u: qlyavsyral
+4-5 o: gbbncuewwj
+7-7 g: ctgxrcdtfktmx
+4-9 p: gaoyvwoaobtjaw
+7-8 b: agkrpstygucmj
+7-7 q: srsdxqxshwewx
+8-8 f: cmddmfppantb
+4-9 e: wlepyecbd`;
+
+const invalidKeys: string[] = [];
+
+SECURITY_POLICIES_RULES.split('\n').forEach((secPol) => {
+        const [entireRule, key] = secPol.split(':');
+        const keyTrimmed = key.trim();
+        const [appearences, letter] = entireRule.split(' ');
+        const [minLetter, maxLetter] = appearences.split('-');
+        const repeats = keyTrimmed.split(letter).length - 1;
+        if (!(+repeats >= +minLetter && +repeats <= +maxLetter)) {
+                invalidKeys.push(keyTrimmed);
+        }
+});
+
+console.log(`submit ${invalidKeys[FOURTY_SECOND_KEY]}`);
