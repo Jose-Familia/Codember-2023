@@ -10,6 +10,7 @@
 |------------|------------|------------|
 | 01 | [CHALLENGE_01](https://github.com/Jose-Familia/Codember-2023/blob/main/Challenges/Challenge1.ts)  | ☑️  |
 | 02 | [CHALLENGE_02](https://github.com/Jose-Familia/Codember-2023/blob/main/Challenges/Challenge2.ts)  | ☑️  |
+| 03 | [CHALLENGE_03](https://github.com/Jose-Familia/Codember-2023/blob/main/Challenges/Challenge3.ts)  | ☑️  |
 
 ## Secrets 🤫🔐
 
